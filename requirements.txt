@@ -1,0 +1,7 @@
+opencv-python
+pyserial
+ultralytics
+PyQt5
+serial
+time
+numpy
