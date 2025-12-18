@@ -1,4 +1,4 @@
 # AI-Enabled Turret Arm
-The AI-Enabled Turret Arm is an autonomous defense system that leverages computer vision models and hardware (servo-motors) for real-time tracking and decision-making. 
+The AI-Enabled Turret Arm is an autonomous defense system that leverages computer vision models and hardware (servo-motors) for real-time object tracking and decision-making. 
 The system integrates a robotic turret arm with sensor fusion, computer vision. Leveraging the YOLO Model, users can direct the turret to identify, track and engage specific targets based on visual features or mission-defined criteria.
 Further integration with thermal and RGB cameras will allow for multi-spectral tracking with an LLM integration to enhance situational awareness by generating real-time descriptions of threats, target classification and engagement summaries. This architecture makes the system ideal for autonomous border monitoring and tactical outpost protection, while offering an intuitive interface that reduces operator workload and cognitive burden.
